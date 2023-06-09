@@ -6,7 +6,7 @@ Alberto Parmiggiani, Divya Shah and Giovanni Berselli
 
 ### Links
 
-##### [Source files](https://github.com/made-iit/flex-2dpom/tree/main/hardware) - [Preprint](https://github.com/made-iit/flex-2dpom/raw/main/media/flex-2dpom_preprint.pdf) - [Paper](https://github.com/made-iit/flex-2dpom/blob/main/media/flex-2dpom_preprint.pdf) - [Bibtex](https://github.com/made-iit/flex-2dpom/raw/main/media/bibtex.bib)
+##### [Source files](https://github.com/made-iit/flex-2dpom/tree/main/hardware) - [Preprint](https://github.com/made-iit/flex-2dpom/raw/main/media/flex-2dpom_preprint.pdf) - [Paper]() - [Bibtex](https://github.com/made-iit/flex-2dpom/raw/main/media/bibtex.bib)
 
 [TODO: fix links]
 
