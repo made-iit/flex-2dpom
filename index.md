@@ -2,13 +2,11 @@
 
 Alberto Parmiggiani, Divya Shah and Giovanni Berselli
 
-
 [TODO: add video here]
-
 
 ### Links
 
-##### [Source files](https://github.com/made-iit/flex-2dpom/tree/main/hardware) - [Preprint](https://github.com/made-iit/flex-2dpom/raw/main/media/preprint_push-latch.pdf) - [Paper]() - [Bibtex](https://github.com/made-iit/flex-2dpom/raw/main/media/bibtex.bib)
+##### [Source files](https://github.com/made-iit/flex-2dpom/tree/main/hardware) - [Preprint](https://github.com/made-iit/flex-2dpom/raw/main/media/preprint_flex-2dpom.pdf) - [Paper]() - [Bibtex](https://github.com/made-iit/flex-2dpom/raw/main/media/bibtex.bib)
 
 [TODO: fix links]
 
