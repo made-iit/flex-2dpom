@@ -1,4 +1,10 @@
+---
+title: Fabrication of Parallel Compliant Mechanisms via Additive Manufacturing
+---
+
 # Fabrication of Parallel Compliant Mechanisms via Additive Manufacturing
+
+<hr style="height:1px"> 
 
 Alberto Parmiggiani, Divya Shah and Giovanni Berselli
 
@@ -6,9 +12,8 @@ Alberto Parmiggiani, Divya Shah and Giovanni Berselli
 
 ### Links
 
-##### [Source files](https://github.com/made-iit/flex-2dpom/tree/main/hardware) - [Preprint](https://github.com/made-iit/flex-2dpom/raw/main/media/flex-2dpom_preprint.pdf) - [Paper]() - [Bibtex](https://github.com/made-iit/flex-2dpom/raw/main/media/bibtex.bib)
-
-[TODO: fix links]
+##### [Source files](https://github.com/made-iit/flex-2dpom/tree/main/hardware) - [Preprint](https://github.com/made-iit/flex-2dpom/raw/main/media/flex-2dpom_preprint.pdf) - [Paper]()* - [Bibtex](https://github.com/made-iit/flex-2dpom/raw/main/media/bibtex.bib)
+*[TODO: add paper link when available online] 
 
 ### Abstract
 
@@ -16,3 +21,7 @@ The manufacturing and assembly of small parallel mechanisms are often complex be
 As a reference, this work considers a recent work on a two degrees of freedom parallel orientational mechanism.
 Several aspects related to the design and manufacturing of this type of small-scale system are addressed by considering two implementations of the mechanism, one developed following a "traditional" approach with linkages and pin joints, and the other developed following a "flexible" approach using additively manufactured flexures.
 The two versions of the mechanism are finally compared to provide qualitative and quantitative indications of their motion precision and capacity to withstand loads.
+
+<hr style="height:1px"> 
+
+**Published in Proc. of ASME SMASIS 2023 - © 2023 ASME**
